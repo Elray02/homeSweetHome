@@ -898,7 +898,7 @@
         {
          "columns":24,
          "firstgid":321,
-         "image":"./tileSet/school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
+         "image":"tileSet\/school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -911,7 +911,7 @@
         {
          "columns":24,
          "firstgid":897,
-         "image":"../tileSet/rmmv_furniture___rtp_edits_by_starbirdresources_dboquop.png",
+         "image":"tileSet\/rmmv_furniture___rtp_edits_by_starbirdresources_dboquop.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -924,7 +924,7 @@
         {
          "columns":24,
          "firstgid":1473,
-         "image":"./tileSet/french_country_remake_ii_by_nicnubill_dbt8bfh.png",
+         "image":"tileSet\/french_country_remake_ii_by_nicnubill_dbt8bfh.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":1,
@@ -937,7 +937,7 @@
         {
          "columns":16,
          "firstgid":2049,
-         "image":"./tileSet/bedTile.png",
+         "image":"tileSet\/bedTile.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
