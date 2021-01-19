@@ -896,20 +896,56 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":321,
-         "source":"mobili2.tsx"
+         "image":"./tileSet/school_b_tileset_rpgmaker_mv_by_alilali_dc6ltva.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"mobili2",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":897,
-         "source":"mobili1.tsx"
+         "image":"../tileSet/rmmv_furniture___rtp_edits_by_starbirdresources_dboquop.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"mobili1",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":1473,
-         "source":"setCasa4.tsx"
+         "image":"./tileSet/french_country_remake_ii_by_nicnubill_dbt8bfh.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":1,
+         "name":"setCasa4",
+         "spacing":1,
+         "tilecount":576,
+         "tileheight":30,
+         "tilewidth":30
         }, 
         {
+         "columns":16,
          "firstgid":2049,
-         "source":"bed4.tsx"
+         "image":"./tileSet/bedTile.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"bed4",
+         "spacing":0,
+         "tilecount":128,
+         "tileheight":91,
+         "tilewidth":48
         }],
  "tilewidth":32,
  "type":"map",
